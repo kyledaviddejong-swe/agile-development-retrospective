@@ -18,26 +18,16 @@ The report discusses Scrum responsibilities, user stories, backlogs, communicati
 
 I evaluated the supplied scenario and wrote the retrospective, connecting the changes in requirements to how work should be organized and reviewed. My emphasis was on keeping the process useful. A backlog should make priorities visible, acceptance criteria should make the work testable, and communication should resolve specific uncertainty.
 
-This repository contains **written analysis**, not the travel application's source code or evidence of managing a commercial team. The report's team and client references belong to the course simulation.
+The deliverable is a written retrospective of the simulated project.
 
-## Working from user needs
+## What I would carry forward
 
-Stakeholder input needs to be understood as intended behavior and features. People often describe what they want in end-user terms, and that needs to become actionable requirements, constraints, and definitions.
+Stakeholders describe intended behavior in everyday terms. User stories keep that purpose visible, while acceptance criteria and edge cases make the work testable. I would retain ordered backlogs, manageable increments, clear completion criteria, and a regular cadence of planning, review, and reflection.
 
-User stories help keep the purpose visible. “As a user, I want X, so that Y” is a useful starting point. Acceptance criteria and edge cases then make success measurable, alongside the shared Definition of Done.
+Being a useful team member means producing understandable work, asking precise questions, making blockers visible, and adapting to shared priorities. Reliability, openness, and responsibility matter throughout the process.
 
-## How I would carry this forward
+## Background
 
-Developing programs is an iterative process. Each goal is the next functional increment. As a project grows, assumptions need to be revisited, and small slices make feedback easier to act on.
+An undergraduate process study using the supplied fictional ChadaTech travel scenario. The report dates from December 14, 2025 and examines simulated roles and decisions.
 
-The practices I would retain are ordered backlogs, manageable units of work, clear completion criteria, and a regular cadence of planning, review, and reflection. Those habits can be useful even outside Scrum.
-
-Being a good team member means producing understandable work that other people can use. Clear communication, precise questions, visible blockers, and shared standards all contribute to that. So does being willing to adapt and put the project ahead of personal preferences. Reliability, openness, and responsibility matter throughout the process.
-
-## Academic context and portfolio edition
-
-Prepared for SNHU CS-250 using the fictional ChadaTech and SNHU Travel scenario. The retrospective dates from December 14, 2025; the original repository reflection followed on December 21. The scenario and simulated roles are not presented as employment or an independently created client project.
-
-This edition adds project-oriented headings, corrects wording and Scrum terminology, and keeps claims within what the simulation demonstrates. Two correspondence screenshots are omitted because their authorship and redistribution status remain unconfirmed. AI assistance was used for this cleanup. The original school submission is preserved separately.
-
-Terminology reference: [Schwaber and Sutherland, The Scrum Guide, November 2020](https://scrumguides.org/scrum-guide.html).
+See [credits and acknowledgments](CREDITS.md). Terminology follows [The Scrum Guide, November 2020](https://scrumguides.org/scrum-guide.html).
